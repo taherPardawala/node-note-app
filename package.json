@@ -1,0 +1,19 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "simple note taking app made in node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "]"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taherPardawala/node-note-app.git"
+  },
+  "author": "Taher Pardawala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taherPardawala/node-note-app/issues"
+  },
+  "homepage": "https://github.com/taherPardawala/node-note-app#readme"
+}
