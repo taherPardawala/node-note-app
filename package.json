@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/taherPardawala/node-note-app/issues"
   },
-  "homepage": "https://github.com/taherPardawala/node-note-app#readme"
+  "homepage": "https://github.com/taherPardawala/node-note-app#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
